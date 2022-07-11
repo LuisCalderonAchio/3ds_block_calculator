@@ -1,0 +1,1 @@
+128 bloques = 16 MB
